@@ -1,5 +1,5 @@
 {
-  "name": "node_app",
+  "name": "nodeapp",
   "version": "0.1",
   "description": "Test app to deploy to Kinsta Cloud",
   "engines": {
