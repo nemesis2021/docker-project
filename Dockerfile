@@ -10,7 +10,7 @@ COPY . /app
 RUN npm install
 
 # Expose port 3000 for accessing  the app
-EXPOSE 8080
+EXPOSE 3000
 
 EXPOSE $PORT
 
